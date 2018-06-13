@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!--背景白色-->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="BaseTheme">
+        <!-- Customize your theme here. -->
+        <!-- 屏幕竖屏 -->
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+</resources>
